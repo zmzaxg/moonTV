@@ -1,37 +1,38 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "jh": { 
+    "jh": {
       "api": "https://ztha.top/TVBox/GYCK.json",
       "name": "聚集合",
       "detail": "https://ztha.top/TVBox/GYCK.json"
     },
-    "sg": { 
+    "sg": {
       "api": "http://xmbjm.fh4u.org/dc.txt",
       "name": "拾光",
       "detail": "http://xmbjm.fh4u.org/dc.txt"
     },
-    "xhz2": { 
+    "xhz2": {
       "api": "http://xhztv.top/xhz/",
       "name": "小盒子仓",
       "detail": "http://xhztv.top/xhz/"
     },
-    "xm": { 
+    "xm": {
       "api": "https://szyyds.cn/tv/x.json",
       "name": "小马",
       "detail": "https://szyyds.cn/tv/x.json"
     },
-    "lb": { 
+    "lb": {
       "api": "https://raw.liucn.cc/box/m.json",
       "name": "刘备",
       "detail": "https://raw.liucn.cc/box/m.json"
     },
-    "xhz": { 
+    "xhz": {
       "api": "http://xhztv.top/4k.json",
       "name": "4K小盒子",
       "detail": "http://xhztv.top/4k.json"
     },
-    "wxe": "https://9280.kstore.vip/newwex.json",
+    "wxe": {
+      "api": "https://9280.kstore.vip/newwex.json",
       "name": "王小二",
       "detail": "http://new.王二小放牛娃.top"
     },

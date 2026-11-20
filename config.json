@@ -1,6 +1,50 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "jh": { 
+      "api": "https://ztha.top/TVBox/GYCK.json",
+      "name": "聚集合",
+      "detail": "https://ztha.top/TVBox/GYCK.json"
+    },
+    "sg": { 
+      "api": "http://xmbjm.fh4u.org/dc.txt",
+      "name": "拾光",
+      "detail": "http://xmbjm.fh4u.org/dc.txt"
+    },
+    "xhz2": { 
+      "api": "http://xhztv.top/xhz/",
+      "name": "小盒子仓",
+      "detail": "http://xhztv.top/xhz/"
+    },
+    "xm": { 
+      "api": "https://szyyds.cn/tv/x.json",
+      "name": "小马",
+      "detail": "https://szyyds.cn/tv/x.json"
+    },
+    "lb": { 
+      "api": "https://raw.liucn.cc/box/m.json",
+      "name": "刘备",
+      "detail": "https://raw.liucn.cc/box/m.json"
+    },
+    "xhz": { 
+      "api": "http://xhztv.top/4k.json",
+      "name": "4K小盒子",
+      "detail": "http://xhztv.top/4k.json"
+    },
+    "wxe": "https://9280.kstore.vip/newwex.json",
+      "name": "王小二",
+      "detail": "http://new.王二小放牛娃.top"
+    },
+    "mye": {
+      "api": "http://www.y456y.com",
+      "name": "摸鱼儿",
+      "detail": "http://www.y456y.com"
+    },
+    "fty": {
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/xxooo/in/raw/in.bmp",
+      "name": "饭太硬",
+      "detail": "http://www.饭太硬.net/"
+    },
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
